@@ -1,2 +1,9 @@
 core/project/settings/local.py
 .env
+/core/project/db.sqlite3
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/.gitignore
+/.idea/Django_Stream.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
